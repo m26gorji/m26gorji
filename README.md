@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -14,7 +14,6 @@
 I hold a Master’s degree in Electrical Engineering from Amirkabir University of Technology (Tehran Polytechnic), where my research focused on deep neural networks. I am deeply interested in machine learning, deep learning applications, and generative models. I enjoy translating theoretical ideas into practical systems and have strong programming experience in Python and MATLAB.
 </p>
 
----
 
 ## 📂 Projects
 
@@ -27,19 +26,21 @@ I hold a Master’s degree in Electrical Engineering from Amirkabir University o
 
 </div>
 
----
+
 
 ## 🛠️ Skills & Tools
 
 <div align="center">
 
 **Programming:** Python, MATLAB
+</br>
 **ML/DL:** Neural Networks, Reinforcement Learning, Representation Learning, Generative Models
+</br>
 **Frameworks & Libraries:** PyTorch, NumPy, SciPy, scikit-learn
 
 </div>
 
----
+
 
 ## 📫 Let’s Collaborate
 
@@ -59,10 +60,6 @@ I hold a Master’s degree in Electrical Engineering from Amirkabir University o
 <p align="center">
 ✨ Always open to research collaboration, open-source contributions, and challenging ML problems.
 </p>
-
-
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="100%">
 
 
 

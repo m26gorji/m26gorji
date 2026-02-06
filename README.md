@@ -32,12 +32,13 @@ I hold a Master’s degree in Electrical Engineering from Amirkabir University o
 
 <div align="center">
 
-**Programming:** Python, MATLAB
+**Programming Languages:** Python, Matlab, C/C++, LaTeX, Git
 </br>
-**ML/DL:** Neural Networks, Reinforcement Learning, Representation Learning, Generative Models
+**Machine Learning Libraries:** PyTorch, Tensorflow, Keras, Scikit-Learn, Pandas, NumPy
 </br>
-**Frameworks & Libraries:** PyTorch, NumPy, SciPy, scikit-learn
-
+**Hardware Design Languages:** AVR, ARM microcontrollers, 8086 Assembly, PLC, LOGO
+</br>
+**Web Development:** HTML5, CSS, JavaScript, jQuery, AJAX, PHP, Laravel, SQL Server
 </div>
 
 

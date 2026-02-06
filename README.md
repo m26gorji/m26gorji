@@ -4,10 +4,6 @@
 
 </div>
 
-
-
-## 👨‍💻 About Me
-
 <p align="center">
 I hold a Master’s degree in Electrical Engineering from Amirkabir University of Technology (Tehran Polytechnic), where my research focused on deep neural networks. I am deeply interested in machine learning, deep learning applications, and generative models. I enjoy translating theoretical ideas into practical systems and have strong programming experience in Python and MATLAB.
 </p>

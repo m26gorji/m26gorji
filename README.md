@@ -1,8 +1,6 @@
-<h1>Hi there 👋</h1>
-
 <div align="center">
 
-## Moslem Gorji </br>🚀 AI & Machine Learning
+## Moslem Gorji </br></br>🚀 AI & Machine Learning
 
 </div>
 

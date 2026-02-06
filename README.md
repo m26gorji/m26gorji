@@ -51,7 +51,7 @@ I hold a Master’s degree in Electrical Engineering from Amirkabir University o
 | **Email**   | `m26gorji@gmail.com`                            |
 | **Website** | [moslemgorji.com](https://www.moslemgorji.com/) |
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
+<img src="github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
 
 </div>
 

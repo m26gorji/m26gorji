@@ -1,5 +1,6 @@
 ## Hi there 👋
-AI & Machine Learning Engineering Portfolio
+I hold a Master’s degree in Electrical Engineering from Amirkabir University of Technology, where my research focused on deep neural networks. My interests include machine learning, deep learning applications, and generative models, and I possess strong programming skills in Python and MATLAB.
+
 <!--
 **m26gorji/m26gorji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

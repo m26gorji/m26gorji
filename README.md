@@ -16,6 +16,9 @@ I hold a Master’s degree in Electrical Engineering from Amirkabir University o
 | Category                                 | Project                                                                      | Key Techniques                                                                          |    Status   |
 | :--------------------------------------- | :--------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :---------: |
 | **Machine Learning**                     | [Reinforcement Learning](https://github.com/m26gorji/reinforcement_learning) | Multi-Armed Bandits, Finite MDPs, Dynamic Programming, Monte Carlo, Temporal Difference | ✅ Completed |
+
+| **Machine Learning**                     | [Q-Learning-Basics-Gymnasium](https://github.com/m26gorji/Q-Learning-Basics-Gymnasium) | Solving Classic RL Problems (Taxi, FrozenLake, CliffWalking) using Q-Learning & Gymnasium | ✅ Completed |
+
 | **Machine Learning & Cognitive Science** | [pAE Visual Pathways](https://github.com/m26gorji/pAE_Visual_Pathways)       | Autoencoders, AlexNet, LGN Modeling, Visual Pathways                                    | ✅ Completed |
 
 </div>
